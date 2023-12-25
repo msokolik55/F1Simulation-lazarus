@@ -44,7 +44,7 @@ F1 Racing Simulator is a simple text-based program that simulates Formula 1 race
 4. **Exit:**
     - Press any key to exit the program after viewing the overall results.
 
-## Example Output
+## Screenshots
 
 ![F1 Racing Simulator Screenshot](screenshot.png)
 
